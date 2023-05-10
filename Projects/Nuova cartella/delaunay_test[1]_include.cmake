@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/giorg/OneDrive/Desktop/Progetto_ Delaunay/Projects/Nuova cartella/delaunay_test[1]_tests.cmake")
+  include("C:/Users/giorg/OneDrive/Desktop/Progetto_ Delaunay/Projects/Nuova cartella/delaunay_test[1]_tests.cmake")
+else()
+  add_test(delaunay_test_NOT_BUILT delaunay_test_NOT_BUILT)
+endif()

@@ -1,0 +1,8 @@
+C:/Users/giorg/OneDrive/Desktop/Progetto_ Delaunay/Projects/Nuova cartella/CMakeFiles/delaunay_test.dir
+C:/Users/giorg/OneDrive/Desktop/Progetto_ Delaunay/Projects/Nuova cartella/CMakeFiles/delaunay_program.dir
+C:/Users/giorg/OneDrive/Desktop/Progetto_ Delaunay/Projects/Nuova cartella/CMakeFiles/edit_cache.dir
+C:/Users/giorg/OneDrive/Desktop/Progetto_ Delaunay/Projects/Nuova cartella/CMakeFiles/rebuild_cache.dir
+C:/Users/giorg/OneDrive/Desktop/Progetto_ Delaunay/Projects/Nuova cartella/src/CMakeFiles/edit_cache.dir
+C:/Users/giorg/OneDrive/Desktop/Progetto_ Delaunay/Projects/Nuova cartella/src/CMakeFiles/rebuild_cache.dir
+C:/Users/giorg/OneDrive/Desktop/Progetto_ Delaunay/Projects/Nuova cartella/test/CMakeFiles/edit_cache.dir
+C:/Users/giorg/OneDrive/Desktop/Progetto_ Delaunay/Projects/Nuova cartella/test/CMakeFiles/rebuild_cache.dir
